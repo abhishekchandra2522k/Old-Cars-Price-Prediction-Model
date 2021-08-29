@@ -8,4 +8,7 @@ This repository contains a project using Machine Learning and Data Analysis.
 
 In this project we determined / predicted the cost of used / old cars by applying data analytics and machine learning algorithms on the given data set.
 
+
+ML-MAJOR-JUNE-GC (2020)
+
 [Dataset Used](https://github.com/abhishekchandra2522k/ML-MAJOR-JUNE-GC/blob/master/Data_Train.xlsx?raw=true)
